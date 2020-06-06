@@ -1,0 +1,22 @@
+{
+  "name": "ci-tests",
+  "version": "1.0.0",
+  "description": "ci tests for apatite",
+  "main": "index.js",
+  "scripts": {
+    "test": "njsunit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apatitejs/ci-tests.git"
+  },
+  "author": "pom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apatitejs/ci-tests/issues"
+  },
+  "homepage": "https://github.com/apatitejs/ci-tests#readme",
+  "devDependencies": {
+    "njsunit": "^1.0.6"
+  }
+}
